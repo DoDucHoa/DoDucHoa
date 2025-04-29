@@ -29,9 +29,8 @@ Currently focused on **Machine Learning**, **Deep Learning**, and **Data-Driven 
 
 ### 📂 Featured Projects
 
-- 🔥 **[Speech To Text](GitHub link)**: [Short 1-line description, eg. "An end-to-end churn prediction system with model deployment on AWS."]
-- 📝 **[Project Name](GitHub link)**: [Short 1-line description, eg. "NLP model for sentiment analysis on Twitter datasets."]
-- 🚀 **[Project Name](GitHub link)**: [Short 1-line description, eg. "Built a recommendation engine for e-commerce product ranking."]
+- 🔊 **[Speech2Text][GitHub link](https://github.com/DoDucHoa/Speech2Text)**: Whisper Speech-to-Text & Translation Application
+- 🧾 **[prompt-picker](GitHub link)**: A Chrome extension that helps you organize, search, and quickly use your favorite prompts with ChatGPT and other AI assistants.
 
 > Check out my [Portfolio Repository](https://github.com/DoDucHoa) for more!
 
@@ -39,7 +38,7 @@ Currently focused on **Machine Learning**, **Deep Learning**, and **Data-Driven 
 
 ### 🧠 Recent Learning Highlights
 
-- 🏆 Completed [Certification or Course], [e.g., DeepLearning.AI TensorFlow Developer Certificate]
+- 🏆 Completed AWS AI Practitioner Certificate
 - 📖 Reading: Designing Machine Learning Systems by Chip Huyen
 - 📚 Ongoing: Learning German
 
@@ -47,7 +46,7 @@ Currently focused on **Machine Learning**, **Deep Learning**, and **Data-Driven 
 
 ### 📬 Let's Connect!
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/hoa-do-0440371b6/
 - Email: doduchoa02@gmail.com
 
 ---
