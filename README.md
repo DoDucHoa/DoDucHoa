@@ -29,8 +29,8 @@ Currently focused on **Machine Learning**, **Deep Learning**, and **Data-Driven 
 
 ### 📂 Featured Projects
 
-- 🔊 **[Speech2Text][GitHub link](https://github.com/DoDucHoa/Speech2Text)**: Whisper Speech-to-Text & Translation Application
-- 🧾 **[prompt-picker](GitHub link)**: A Chrome extension that helps you organize, search, and quickly use your favorite prompts with ChatGPT and other AI assistants.
+- 🔊 **[Speech2Text](https://github.com/DoDucHoa/Speech2Text)**: Whisper Speech-to-Text & Translation Application
+- 🧾 **[prompt-picker](https://github.com/DoDucHoa/prompt-picker)**: A Chrome extension that helps you organize, search, and quickly use your favorite prompts with ChatGPT and other AI assistants.
 
 > Check out my [Portfolio Repository](https://github.com/DoDucHoa) for more!
 
