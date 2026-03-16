@@ -1,6 +1,7 @@
 # Hi there! I'm Hoa Duc Do
 
 **Software Engineer / Data Engineer**
+
 Welcome to my GitHub! I am a Software Engineer with nearly 4 years of experience building scalable backend systems and frontend applications.
 
 ---
@@ -17,14 +18,13 @@ Welcome to my GitHub! I am a Software Engineer with nearly 4 years of experience
 - Built a real-time data pipeline using **Kafka** and **Spark Structured Streaming** to process 850K+ events.
 - Engineered MLOps workflows with **dbt, BigQuery, Airflow, and Docker** to ensure clean, reproducible datasets for model training.
 
-#### 🌐 [Saigon Village Landing Page](https://saigonvillage.de)
+#### [Saigon Village Landing Page](https://saigonvillage.de)
 *A modern, SEO-optimized landing page developed for a local restaurant in Germany.*
 - Designed and developed a responsive web experience from scratch using **ReactJS**, taking full product ownership from UI/UX to deployment.
 
 ---
 
-### 📬 Let's Connect!
+### Let's Connect!
 
 - 📧 **Email:** hoaducdo.dev@gmail.com
 - 📍 **Location:** Munich, Germany
-
