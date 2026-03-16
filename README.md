@@ -26,5 +26,4 @@ Welcome to my GitHub! I am a Software Engineer with nearly 4 years of experience
 
 ### Let's Connect!
 
-- 📧 **Email:** hoaducdo.dev@gmail.com
-- 📍 **Location:** Munich, Germany
+**Email:** hoaducdo.dev@gmail.com
