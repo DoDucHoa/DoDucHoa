@@ -1,8 +1,6 @@
 # Hi there! I'm Hoa Duc Do
 
-**Software Engineer / Data Engineer**
-
-Welcome to my GitHub! I am a Software Engineer with nearly 4 years of experience building scalable backend systems and frontend applications.
+Welcome to my GitHub! I am a **Software Engineer** with nearly 4 years of experience building scalable backend systems and frontend applications.
 
 ---
 
